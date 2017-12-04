@@ -6,6 +6,8 @@
 ## 概要
 OpenGL 1.1 の学習向けにOBJ形式のファイルを読み込むサンプル。type1〜type5まで徐々に複雑になっていっています。
 
+[参考資料](https://ja.wikipedia.org/wiki/Wavefront_.objファイル)
+
 + type1
 
   頂点座標のみ対応
